@@ -1,0 +1,172 @@
+.container{
+    font-family:Berlin Sans FB ;
+    
+}
+
+
+.Images-socail{
+width: 25px;
+border-radius: 100px;
+
+}
+
+.Image-logo{
+    width: 50px;
+    border-radius: 100px;
+}
+
+h2{
+    color: #fff;
+}
+
+.nav-bar{
+    
+    
+}
+
+.nav-ul{
+    display: flex;
+
+}
+.nav-li{
+    padding: 05%;
+    list-style-type: none;
+    
+}
+
+
+.nav-link:hover{
+    text-decoration: none;
+transition: all 2s linear;
+background-color: aliceblue;
+width: 110%;
+border-radius: 10px;
+color: #fff;
+}
+
+.button-one{
+    border-radius: 25px;
+    border: none;
+    background-color: lightblue;
+    color: #fff;
+}
+
+.button-one a{
+    text-decoration: none;
+    color: #fff;
+
+}
+
+.button-two{
+    background-color: lightgrey;
+    border-radius: 25px;
+    border: none;
+    color: #fff;
+}
+
+.button-two a{
+    text-decoration: none;
+    color: #fff;
+
+}
+
+.button-one:hover{
+
+    background-color: darkgrey;
+      	border-radius: 50px;
+      	transform: scale(0.8);
+      	transition: ease-in 0.90s;
+}
+
+.button-two:hover{
+
+    background-color: darkcyan;
+      	border-radius: 50px;
+      	transform: scale(0.8);
+      	transition: ease-in 0.90s;
+}
+
+
+/* Header Close */
+
+.Card{
+    border: 2px solid black;
+    width: 100%;
+    height: 70vh;
+    border-radius: 25px; 
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;  
+}
+
+.Card img{
+border-top-left-radius: 25px;
+border-top-right-radius: 25px;
+width: 100%;
+height: 50vh;
+
+}
+
+.p{
+    text-align: center;
+    margin-top: 03%;
+
+    border-top: 2px solid  black;
+}
+
+s{
+    color: red;
+}
+
+.card-Icon{
+	width: 100%;
+	height: 100%;
+	 transform: translateX(-100%);
+     visibility: visible;    
+    transition: all .3s linear;
+    opacity: 1;
+}
+
+.card:hover .card-Icon {
+    transition: all 2px linear;
+    visibility: visible;
+    opacity: 0;
+}
+
+
+.fp p{
+    color: #fff;
+}
+
+.shop{
+    color: #fff;
+}
+
+.fh3{
+    color: #fff;
+}
+
+.gray{
+    color: gray;
+}
+
+
+.footer{
+    color: #fff;
+}
+.footer-p-e{
+
+    color: #fff;
+}
+
+.contact-p{
+    color: lightgray;
+}
+
+.gray{
+    text-decoration: none;
+    color: lightgray;
+}
+
+
